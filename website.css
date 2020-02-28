@@ -150,18 +150,6 @@ body {
   border-top: none;
 }
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 50%;
-}
-
-td, th {
-  border: 2px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
 #h2 {
 	margin-left: 20px;
 }
@@ -173,4 +161,9 @@ a {
 	
 #quiz {
 	margin-left: 20px;
+}
+
+#attribution {
+	margin-left: 20px;
+	font-size: 12px;
 }
